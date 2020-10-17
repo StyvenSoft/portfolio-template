@@ -19,8 +19,16 @@
     "@angular/platform-browser": "~10.1.6",
     "@angular/platform-browser-dynamic": "~10.1.6",
     "@angular/router": "~10.1.6",
+    "@popperjs/core": "^2.5.3",
+    "bootstrap": "^4.5.3",
+    "counterup": "^1.0.2",
+    "font-awesome": "^4.7.0",
+    "ionicons": "^2.0.1",
+    "jquery": "^3.5.1",
+    "jquery.easing": "^1.4.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "waypoints": "^4.0.1",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {

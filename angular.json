@@ -35,7 +35,8 @@
               "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "./node_modules/jquery.easing/jquery.easing.min.js",
               "./node_modules/waypoints/lib/jquery.waypoints.min.js",
-              "./node_modules/counterup/jquery.counterup.min.js"
+              "./node_modules/counterup/jquery.counterup.min.js",
+              "./node_modules/typed.js/lib/typed.min.js"
             ]
           },
           "configurations": {
@@ -109,7 +110,8 @@
               "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "./node_modules/jquery.easing/jquery.easing.min.js",
               "./node_modules/waypoints/lib/jquery.waypoints.min.js",
-              "./node_modules/counterup/jquery.counterup.min.js"
+              "./node_modules/counterup/jquery.counterup.min.js",
+              "./node_modules/typed.js/lib/typed.min.js"
             ]
           }
         },

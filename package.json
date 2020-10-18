@@ -28,6 +28,7 @@
     "jquery.easing": "^1.4.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "typed.js": "^2.0.11",
     "waypoints": "^4.0.1",
     "zone.js": "~0.10.2"
   },

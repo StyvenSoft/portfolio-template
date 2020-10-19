@@ -1,0 +1,13 @@
+#!/bin/bash
+
+npm i -g @angular/cli
+
+ng new my-app
+
+cd my-app
+
+ng serve --o
+
+ng g c pages/home --skipTests
+
+ng g s services/infoPage --skipTests

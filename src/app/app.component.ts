@@ -8,7 +8,5 @@ import { InfoPageService } from './services/info-page.service';
 })
 export class AppComponent {
 
-  constructor( public _infoPageService: InfoPageService ) {
-
-  }
+  constructor( public _infoPageService: InfoPageService ) { }
 }

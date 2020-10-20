@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { InfoPageService } from 'src/app/services/info-page.service';
 declare  var jQuery:  any;
 
 @Component({
@@ -8,7 +9,7 @@ declare  var jQuery:  any;
 })
 export class HeaderComponent implements OnInit {
 
-  constructor() { }
+  constructor( public _service: InfoPageService ) { }
 
   ngOnInit(): void {
 

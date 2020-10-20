@@ -11,3 +11,5 @@ ng serve --o
 ng g c pages/home --skipTests
 
 ng g s services/infoPage --skipTests
+
+ng g i interfaces/info-page interface

@@ -9,15 +9,28 @@ export class InfoPageService {
 
   info: InfoPage = {};
   loaded = false;
+  profile: any[] = [];
 
-  constructor( private http: HttpClient ) {
+  constructor(private http: HttpClient) {
 
+    this.loadInfo();
+    this.loadProfile();
+
+  }
+
+  private loadInfo() {
     this.http.get('./assets/data/data.page.json')
-      .subscribe( (resp: InfoPage ) => {
-
+      .subscribe((resp: InfoPage) => {
         this.loaded = true;
         this.info = resp;
+      });
+  }
+
+  private loadProfile() {
+    this.http.get('https://portfolio-tem.firebaseio.com/profile.json')
+      .subscribe((resp: any[]) => {
+        this.profile = resp;
         console.log(resp);
-      })
-   }
+      });
+  }
 }

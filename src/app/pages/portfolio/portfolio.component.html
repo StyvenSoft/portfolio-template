@@ -23,20 +23,20 @@
                     <div class="box-shadow-full">
                         <div class="row">
                             <div class="col-md-6">
-                                <div class="row">
+                                <div *ngFor="let person of _service.profile" class="row">
                                     <div class="col-sm-6 col-md-5">
                                         <div class="about-img">
-                                            <img src="assets/img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a"
+                                            <img [src]="person.url" class="img-fluid rounded b-shadow-a"
                                                 alt="">
                                         </div>
                                     </div>
                                     <div class="col-sm-6 col-md-7">
                                         <div class="about-info">
-                                            <p><span class="title-s">Name: </span> <span>Steveen Echeverri</span></p>
-                                            <p><span class="title-s">Profile: </span> <span>Full stack developer</span>
+                                            <p><span class="title-s">Name: </span> <span>{{ person.name }}</span></p>
+                                            <p><span class="title-s">Profile: </span> <span>{{ person.profession }}</span>
                                             </p>
-                                            <p><span class="title-s">Email: </span> <span>contact@example.com</span></p>
-                                            <p><span class="title-s">Phone: </span> <span>(617) 557-0089</span></p>
+                                            <p><span class="title-s">Email: </span> <span>{{ person.email }}</span></p>
+                                            <p><span class="title-s">Phone: </span> <span>{{ person.phone }}</span></p>
                                         </div>
                                     </div>
                                 </div>

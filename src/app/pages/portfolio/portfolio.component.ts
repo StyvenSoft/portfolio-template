@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { InfoPageService } from 'src/app/services/info-page.service';
 import Typed from 'typed.js';
 declare var jQuery: any;
 
@@ -9,7 +10,7 @@ declare var jQuery: any;
 })
 export class PortfolioComponent implements OnInit {
 
-  constructor() { }
+  constructor( public _service: InfoPageService ) { }
 
   ngOnInit(): void {
 

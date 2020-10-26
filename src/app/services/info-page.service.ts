@@ -30,7 +30,6 @@ export class InfoPageService {
     this.http.get('https://portfolio-tem.firebaseio.com/profile.json')
       .subscribe((resp: any[]) => {
         this.profile = resp;
-        console.log(resp);
       });
   }
 }

@@ -2,6 +2,10 @@
   # Intro Section
   --------------------------------------------------------------*/
 
+iframe {
+    border-style: none;
+}
+
 .intro {
     height: 100vh;
     position: relative;

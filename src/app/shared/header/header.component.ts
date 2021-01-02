@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { InfoPageService } from 'src/app/services/info-page.service';
-declare  var jQuery:  any;
+declare var jQuery: any;
 
 @Component({
   selector: 'app-header',
@@ -9,18 +9,32 @@ declare  var jQuery:  any;
 })
 export class HeaderComponent implements OnInit {
 
-  constructor( public _service: InfoPageService ) { }
+  constructor(public _service: InfoPageService) { }
 
   ngOnInit(): void {
 
     (function ($) {
       "use strict";
 
-      $('.navbar-toggler').on('click', function() {
+      var nav = $('nav');
+      var navHeight = nav.outerHeight();
+
+      $('.navbar-toggler').on('click', function () {
         if (!$('#mainNav').hasClass('navbar-reduce')) {
           $('#mainNav').addClass('navbar-reduce');
         }
       })
+
+      // Closes responsive menu when a scroll trigger link is clicked
+      $('.js-scroll').on("click", function () {
+        $('.navbar-collapse').collapse('hide');
+      });
+
+      // Activate scrollspy to add active class to navbar items on scroll
+      $('body').scrollspy({
+        target: '#mainNav',
+        offset: navHeight
+      });
 
       /*--/ Navbar Menu Reduce /--*/
       $(window).trigger('scroll');

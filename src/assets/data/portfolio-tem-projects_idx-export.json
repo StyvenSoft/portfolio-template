@@ -1,0 +1,220 @@
+[ 
+  {
+  "category" : "Ruby on Rails",
+  "cod" : "proj-1",
+  "date" : "Dec 18, 2020",
+  "github" : "https://github.com/StyvenSoft/friends-contapp",
+  "title" : "Friends Contapp",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/FriendApp.png?alt=media&token=09b92546-e91c-44a8-96c5-68a3d6ef0a1e",
+  "web" : "https://friends-contapp.herokuapp.com"
+},
+
+{
+  "category" : "Laravel web application",
+  "cod" : "proj-2",
+  "date" : "Dec 5, 2020",
+  "github" : "https://github.com/StyvenSoft/postwi-app",
+  "title" : "Postwi App",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Postwi.png?alt=media&token=9b9ff02f-7b42-4769-ab34-1f1b4babeebd",
+  "web" : "https://postwi-app.herokuapp.com"
+},
+{
+  "category" : "MERN Stack",
+  "cod" : "proj-3",
+  "date" : "Apr 17, 2020",
+  "github" : "https://github.com/StyvenSoft/Events-Site",
+  "title" : "Events Site",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/EventApp.png?alt=media&token=08b3a2b9-1137-4474-946d-0d6c2be7147e",
+  "web" : "http://events-site.styvensoft.vercel.app"
+},
+{
+  "category" : "MERN stack",
+  "cod" : "proj-4",
+  "date" : "Oct 1, 2020",
+  "github" : "https://github.com/StyvenSoft/user-authentication",
+  "title" : "User Authentication",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Auth.png?alt=media&token=4098a3d3-86da-434c-880f-9b04429e4d1a",
+  "web" : "https://user-authentication.styvensoft.vercel.app"
+},
+{
+  "category" : "Nodejs and Express",
+  "cod" : "proj-5",
+  "date" : "Mar 13, 2020",
+  "github" : "https://github.com/StyvenSoft/Simple-website",
+  "title" : "Simple Website",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/SimpleW.png?alt=media&token=43ceef04-7668-40f6-bdd3-c319390efe5e",
+  "web" : "https://simple-website-node.herokuapp.com"
+},
+{
+  "category" : "GraphQL, MongoDB, React.js",
+  "cod" : "proj-6",
+  "date" : "Oct 12, 2020",
+  "github" : "https://github.com/StyvenSoft/favorite-events",
+  "title" : "Favorite Envents",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/FavEvent.png?alt=media&token=3ae6bcb6-e6de-46b5-adf5-c25b79e8ed40",
+  "web" : "https://favorite-events.netlify.app"
+},
+{
+  "category" : "React Hooks and Redux",
+  "cod" : "proj-7",
+  "date" : "Nov 29, 2020",
+  "github" : "https://github.com/StyvenSoft/gestion-inmobiliaria",
+  "title" : "Gestión Inmobiliaria",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Inmobiliaria.png?alt=media&token=1bb434e9-b5fe-4c8f-ad37-04f12e6ae9a1",
+  "web" : "https://gestion-inmoviliaria.web.app"
+},
+{
+  "category" : "Express.js and SQLite",
+  "cod" : "proj-8",
+  "date" : "Jun 25, 2020",
+  "github" : "https://github.com/StyvenSoft/Quick-posts",
+  "title" : "Quick Posts",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Quick.png?alt=media&token=4e1d63cc-1372-4682-9a85-397384039522",
+  "web" : "https://project-quick-posts.herokuapp.com"
+},
+{
+  "category" : "Vanilla-js, Contentful",
+  "cod" : "proj-9",
+  "date" : "Jan 6, 2020",
+  "github" : "https://github.com/StyvenSoft/shopping-cart-seveen",
+  "title" : "Shopping Cart Seveen",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Shop.png?alt=media&token=ced43ec4-5c93-4afb-853f-9c744879b39e",
+  "web" : "https://shopping-cart-seveen.netlify.app"
+},
+{
+  "category" : "Modernizr and Bootstrap",
+  "cod" : "proj-10",
+  "date" : "Oct 29, 2020",
+  "github" : "https://github.com/StyvenSoft/paid-courses",
+  "title" : "Paid Courses",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Courses.png?alt=media&token=55bca2d6-a2d7-4244-b06c-ffc81f8ecb19",
+  "web" : "https://cursosonlineoptimiza-git-main.styvensoft.vercel.app"
+},
+{
+  "category" : "React using Styled Components",
+  "cod" : "proj-11",
+  "date" : "Nov 4, 2020",
+  "github" : "https://github.com/StyvenSoft/seven-landing",
+  "title" : "Seven Landing",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/sevenLand.png?alt=media&token=cdf116d4-c9c8-4ed5-a6a8-cfa755a134d0",
+  "web" : "https://seven-landing.styvensoft.vercel.app"
+},
+{
+  "category" : "Typescript with Reactjs",
+  "cod" : "proj-12",
+  "date" : "Oct 10, 2020",
+  "github" : "https://github.com/StyvenSoft/add-tasks",
+  "title" : "Add Tasks",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/task.png?alt=media&token=b722a1c2-a433-4495-94fa-ac92a73d22da",
+  "web" : "add-tasks.vercel.app"
+},
+{
+  "category" : "Express.js and Node-SQLite",
+  "cod" : "proj-13",
+  "date" : "Sep 4, 2020",
+  "github" : "https://github.com/StyvenSoft/codestrips-app",
+  "title" : "Codestrips App",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/codestrip.png?alt=media&token=5009f74c-f86a-4bcd-ba84-20b23c694ee6",
+  "web" : "https://codestrips-app.herokuapp.com"
+},
+{
+  "category" : "Express.js JSON API",
+  "cod" : "proj-14",
+  "date" : "Sep 3, 2020",
+  "github" : "https://github.com/StyvenSoft/quote-api-starting",
+  "title" : "Quote API",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/quoteApi.png?alt=media&token=db920767-8b61-4c4a-b9bd-9cbfc1ca2612",
+  "web" : "https://quote-api-starting.herokuapp.com"
+},
+{
+  "category" : "HTML CSS JS",
+  "cod" : "proj-15",
+  "date" : "Jan 13, 2020",
+  "github" : "https://github.com/StyvenSoft/StyvenSoft.github.io",
+  "title" : "Portafolio web personal",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/PortfolioS.png?alt=media&token=81ff7181-7f04-43a7-bf9b-dc5e8fd7567c",
+  "web" : "https://styvensoft.github.io"
+},
+{
+  "category" : "React app Yelp API",
+  "cod" : "proj-16",
+  "date" : "Jun 3, 2020",
+  "github" : "https://github.com/StyvenSoft/ravenous-hungry",
+  "title" : "Ravenous Hungry",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Hungry.png?alt=media&token=e05d04b4-4eaa-4ee4-8766-d6c12a876afc",
+  "web" : "https://ravenous-hungry.netlify.app"
+},
+{
+  "category" : "React app Spotify Api",
+  "cod" : "proj-17",
+  "date" : "Jun 14, 2020",
+  "github" : "https://github.com/StyvenSoft/music-timing",
+  "title" : "Music Timing",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Music.png?alt=media&token=e08477ad-3598-453a-a190-39b4a6d1fb76",
+  "web" : "https://music-timing.netlify.app"
+},
+{
+  "category" : "HTML SASS",
+  "cod" : "proj-18",
+  "date" : "Feb 23, 2020",
+  "github" : "https://github.com/StyvenSoft/Sass-Tutorial",
+  "title" : "Portfolio Website",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Sass.png?alt=media&token=fd75257e-026f-4dfe-b5d1-81bea86fbb4b",
+  "web" : "https://steveenecheverry.netlify.app"
+},
+{
+  "category" : "HTML Bootstrap4",
+  "cod" : "proj-19",
+  "date" : "Feb 10, 2020",
+  "github" : "https://github.com/StyvenSoft/guia-hoteles",
+  "title" : "Guía Hoteles",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Hoteles.png?alt=media&token=5a6f1075-7780-4bb1-90bc-e74c465fa4eb",
+  "web" : "https://styvensoft.github.io/guia-hoteles"
+},
+{
+  "category" : "Bootstrap4 Javascript",
+  "cod" : "proj-20",
+  "date" : "Jan 30, 2020",
+  "github" : "https://github.com/StyvenSoft/Presupuesto-App",
+  "title" : "Presupuesto App",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Presup.png?alt=media&token=a876d2f6-2b36-4edb-85e2-4d1378d45d01",
+  "web" : "https://styvensoft.github.io/Presupuesto-App"
+},
+{
+  "category" : "HTML CSS Vanilla JS",
+  "cod" : "proj-21",
+  "date" : "Jan 19, 2020",
+  "github" : "https://github.com/StyvenSoft/Colors-Mobile-Phone-",
+  "title" : "Colors Mobile Phone",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Phone.png?alt=media&token=d8aa52d4-dfb9-4841-b569-ad2eda2b473a",
+  "web" : "https://styvensoft.github.io/Colors-Mobile-Phone-"
+},
+{
+  "category" : "ReactJs Api Pixabay",
+  "cod" : "proj-22",
+  "date" : "Nov 17, 2019",
+  "github" : "https://github.com/StyvenSoft/pixaimg-app",
+  "title" : "Pixaimg App",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Images.png?alt=media&token=251aec0a-bbe7-4424-b43a-e50c5efe09ba",
+  "web" : "https://pixaimg-app.netlify.app"
+},
+{
+  "category" : "HTML CSS Javascript",
+  "cod" : "proj-23",
+  "date" : "Dec 26, 2019",
+  "github" : "https://github.com/StyvenSoft/Seveen-restaurant",
+  "title" : "Seveen Restaurant",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/Restaurant.png?alt=media&token=8982f9cb-05e2-4663-a1e1-88d2f93f708e",
+  "web" : "https://styvensoft.github.io/Seveen-restaurant"
+},
+{
+  "category" : "HTML / CSS BootstrapV4",
+  "cod" : "proj-24",
+  "date" : "Dec 15, 2019",
+  "github" : "https://github.com/StyvenSoft/White-portfolio",
+  "title" : "White-portfolio",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-tem.appspot.com/o/seven.png?alt=media&token=ad53fbe5-667a-45ce-9b2c-fb69fa8ae858",
+  "web" : "https://styvensoft.github.io/White-portfolio"
+}
+
+]
